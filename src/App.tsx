@@ -8,7 +8,9 @@ function App() {
         <div className="text-2xl font-bold">Chollada Sae-lim</div>
         <div className="text-2xl font-bold">Web Developer</div>
         <div className="text-2xl font-bold">Oct 8, 2002</div>
-        <div className="text-2xl font-bold">Computer Science, KMITL</div>
+        <div className="text-2xl font-bold">
+          This website is under development...
+        </div>
       </div>
     </>
   );
